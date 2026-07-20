@@ -8,11 +8,16 @@ search:
 Ihr verwaltet euer Lineup selbst, direkt in der App. Ihr braucht dafür nur
 euren **6-stelligen Camp-Code** — den habt ihr per Mail bekommen.
 
-!!! danger "Der Code gehört euch allein"
+!!! warning "Gebt den Code nur camp-intern weiter"
 
-    Ein Code schaltet **genau ein Camp** frei. Gebt ihn nicht weiter und
-    schickt ihn nicht in Gruppenchats — wer ihn hat, kann euer Programm ändern,
-    und jede Änderung geht sofort an alle, die eines eurer Sets markiert haben.
+    Ein Code schaltet **genau ein Camp** frei — eures. Innerhalb des Camps
+    dürft ihr ihn selbstverständlich teilen: alle, die bei euch das Lineup
+    pflegen, brauchen ihn. Gebt ihn aber nur an Leute, denen ihr vertraut.
+
+    Wo er nicht hingehört: offene Gruppenchats, Storys, Aushänge, das
+    Festival-WLAN-Passwort-Zettelchen. Wer den Code hat, kann euer komplettes
+    Programm ändern — und jede Veröffentlichung schickt sofort Mitteilungen an
+    alle, die eines eurer Sets markiert haben.
 
     Code verloren oder im Verdacht, dass er rumliegt? Meldet euch bei der
     Orga, dann bekommt ihr einen neuen.
