@@ -51,6 +51,13 @@ Passt nichts: *Keine Künstler passen zu deiner Suche.*
 Zeit, Camp und Feld. Steht unter einem Set **b2b Name**, spielen zwei zusammen —
 und die Seite nennt dir immer die *andere* Person. Rechts an jeder Zeile ein ★.
 
+<div class="shots" markdown>
+<figure markdown>
+  ![Die Detailseite einer Künstlerin](assets/shots/kuenstler-detail.png){ .shot }
+  <figcaption>Alle Sets nach Tagen, mit Zeit, Camp und Feld.</figcaption>
+</figure>
+</div>
+
 Ein Tipp auf so eine Zeile führt zum **Camp**, nicht zum Set.
 
 ## Timetable

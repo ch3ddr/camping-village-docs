@@ -41,6 +41,13 @@ Ist noch nichts markiert:
 > Markiere Sets überall in der App mit einem Stern und sie sammeln sich hier —
 > inklusive Warnung, wenn sich zwei deiner Favoriten überschneiden.
 
+<div class="shots" markdown>
+<figure markdown>
+  ![Ein gefüllter Plan](assets/shots/mein-plan-gefuellt.png){ .shot }
+  <figcaption>Markierte Sets, nach Tagen gruppiert.</figcaption>
+</figure>
+</div>
+
 ## Überschneidungen
 
 Überlappen sich zwei markierte Sets zeitlich, bekommt **jede betroffene Zeile**
