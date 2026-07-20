@@ -14,8 +14,6 @@ bleiben die Daten auf dem Gerät.
 </figure>
 </div>
 
-<video class="clip" src="assets/shots/tabs-rundgang.mp4" autoplay muted loop playsinline></video>
-
 ## Vier Tabs, mehr gibt es nicht
 
 | Tab | Wofür |
