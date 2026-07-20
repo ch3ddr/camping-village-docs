@@ -84,7 +84,7 @@ Stand wieder her:
 | Meldung | Was zu tun ist |
 | --- | --- |
 | **Speichern fehlgeschlagen** | Netzproblem. Euer Entwurf ist noch da — nochmal probieren. |
-| **Konflikt: {a} überschneidet {b}** | Zwei Sets überlappen sich. Ja, die geschweiften Klammern stehen wirklich so da — ein bekannter Anzeigefehler. Sucht in eurer Timetable nach zwei Sets zur selben Zeit; meist steckt ein als **No-Show** markiertes Set dahinter, denn das weicht beim Verschieben nicht aus. |
+| **Konflikt: zwei Sets überschneiden sich** | Zwei Sets überlappen sich; es wurde nichts gespeichert, euer Entwurf bleibt. Die Meldung nennt die Sets nicht — sucht in eurer Timetable nach zwei Sets zur selben Zeit. Meist steckt ein als **No-Show** markiertes Set dahinter, denn das weicht beim Verschieben nicht aus. |
 
 ## Die goldene Regel
 

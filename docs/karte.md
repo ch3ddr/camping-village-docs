@@ -20,9 +20,9 @@ komplett auf dem Gerät und funktioniert deshalb auch ohne Netz.
 | Zwei Finger hoch/runter | Neigung ändern — flacher oder steiler drauf |
 | Tippen | Pin auswählen |
 
-Beim Öffnen blendet die Karte diese Liste kurz selbst ein. Der Hinweis
-**verschwindet nach sieben Sekunden und kommt nicht wieder** — deshalb steht er
-hier.
+Beim Öffnen blendet die Karte diese Liste kurz selbst ein — auf Deutsch. Der
+Hinweis **verschwindet nach sieben Sekunden und kommt nicht wieder**, deshalb
+steht er hier.
 
 Unten rechts, in der Karte selbst, sitzen vier Knöpfe: alles einpassen,
 Pins ein-/ausblenden, ein **Kompass** (antippen richtet die Karte wieder nach
@@ -40,16 +40,17 @@ Norden aus) und **CAMP LIST**.
 
     **Zweiter Tipp auf denselben Pin:** das Camp öffnet sich.
 
-    Die Hinweiszeile der App sagt *„Tippe einen Pin für sein Lineup"* und
-    unterschlägt damit den ersten Schritt. Wenn du nach dem ersten Tipp denkst,
-    es sei nichts passiert: doch, schau nach unten.
+    Die Hinweiszeile unter der Karte sagt es passend: *„Tippe einen Pin für
+    Camp-Details"*. Sie nennt den zweiten Tipp nur nicht ausdrücklich. Wenn du
+    nach dem ersten Tipp denkst, es sei nichts passiert: doch, schau nach unten.
 
 Schneller geht es über den Knopf **LINEUP ANSEHEN →** auf der Karteikarte — der
 öffnet direkt. Das **×** oben rechts schließt sie wieder.
 
 ### Über die Feld-Chips
 
-Über der Karte eine Reihe: **ALLE**, dann ein Chip pro Feld.
+Über der Karte eine Reihe: **ALLE**, dann ein Chip pro Feld. Alle vier Filter
+wirken auf die Pins.
 
 - Ein Feld antippen → es wird bernstein, die Kamera rahmt das ganze Feld ein,
   und unten erscheint eine Reihe **Camp-Kurzwahlen**. Diese Kurzwahlen öffnen
@@ -81,14 +82,23 @@ Ist ein Filter aktiv, erscheint oben rechts in der Karte ein kleiner Chip mit
 der Trefferzahl und **CLEAR**. Der räumt Genres, Felder, Tag und
 „nur markierte" in einem Rutsch weg.
 
-!!! note "Die Karte spricht Englisch"
+!!! note "Die Karte spricht mit"
 
-    Die Bedienelemente *innerhalb* der Karte — der Einblend-Hinweis, **CAMP
-    LIST** und dessen Suchfeld — sind derzeit nur auf Englisch, auch wenn die
-    App auf Deutsch steht.
+    Die Karte folgt dem Sprachumschalter. Auf Deutsch heißt der Knopf unten
+    links **CAMP-LISTE**, die geöffnete Liste **CAMPING-FELDER** und ihr
+    Suchfeld *Camp, Nummer oder Feld suchen…*. Der Einblend-Hinweis lautet
+    *ZIEHEN ZUM SCHWENKEN · MIT ZWEI FINGERN DREHEN · HOCH/RUNTER ZIEHEN ZUM
+    NEIGEN · ZUM ZOOMEN AUFZIEHEN · CAMP ANTIPPEN*. Der Wechsel wirkt sofort,
+    ohne die Karte neu zu laden.
 
-## Wenn die Karte leer bleibt
+## Wenn die Karte nicht lädt
 
-Zeigt der Kartenbereich nur ein leeres Rechteck, hat das Laden nicht geklappt.
-Es gibt momentan **keine Fehlermeldung und keinen Wiederholen-Knopf** — hilft
-nur: App ganz schließen und neu starten.
+Klappt das Laden nicht, steht an der Stelle der Karte
+**„Karte nicht verfügbar · zum Wiederholen tippen"**. Tippe irgendwo darauf —
+die ganze Fläche reagiert. Die Karte wird dann komplett neu aufgebaut; dass es
+dabei kurz dunkel bleibt, ist normal.
+
+Oft musst du gar nichts tun: War die App länger im Hintergrund oder hat das
+Telefon die Karte wegen Speichermangels beendet, stellt die App sie beim
+Zurückkehren selbst wieder her. Hilft mehrmaliges Antippen nicht, starte die
+App neu.

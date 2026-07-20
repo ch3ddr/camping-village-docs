@@ -20,20 +20,26 @@ sind aber gewollt:
 
 ## <a id="entwurf-verloren"></a>Der Entwurf ist plötzlich weg
 
-Euer Entwurf lebt nur, solange ihr auf dem Camp-Bildschirm bleibt. **Sechs
-Wege** löschen ihn ohne Nachfrage:
+Verlasst ihr den Bearbeitungsmodus mit ungespeicherten Änderungen, fragt die
+App nach:
 
-1. **ABMELDEN** unten in der Leiste
-2. Die versteckte Lineup-Tab-Geste (meldet euch ab)
-3. Das **‹** oben links
-4. Die Zurück-Taste (Android)
-5. **Ein Tipp auf irgendeinen Tab** unten
-6. **Das Stecknadel-Symbol „Auf Karte zeigen"** auf eurem eigenen Camp
+> **ÄNDERUNGEN VERWERFEN?**
+> Deine ungespeicherten Änderungen gehen verloren.
+>
+> [ Weiter bearbeiten ] [ **Verwerfen** ]
 
-Nummer 6 ist die gemeinste: ein unscheinbarer Knopf mitten auf dem Bildschirm,
-den ihr gerade bearbeitet.
+Das gilt für **ABBRECHEN**, **ABMELDEN**, die versteckte Lineup-Tab-Geste, das
+**‹** oben links, die Zurück-Taste und jeden Tipp auf einen der vier Tabs unten.
 
-**Nur der Knopf ABBRECHEN fragt nach.** Alle anderen nicht.
+!!! danger "Zwei Wege fragen nicht"
+
+    **Das Feld-Kürzel** oben in eurem Camp — direkt links neben dem
+    Stecknadel-Symbol, z. B. `F6`. Ein Tipp darauf springt ins Feld und nimmt
+    einen ungespeicherten Entwurf wortlos mit. Das ist die gemeinste Falle:
+    ein unscheinbarer Knopf mitten auf dem Bildschirm, den ihr gerade
+    bearbeitet.
+
+    **Die App komplett schließen.** Der Entwurf lebt nur im Arbeitsspeicher.
 
 !!! tip "Angewohnheit, die euch rettet"
 
@@ -50,10 +56,11 @@ Vorgehen: Timetable → alle ihre Sets freimachen (**✕**), umbesetzen
 (**⋯ → Künstler tauschen**) oder löschen (**⋯ → Slot entfernen**) → zurück ins
 Lineup → jetzt geht **ENTFERNEN**.
 
-## „Konflikt: {a} überschneidet {b}"
+## „Konflikt: zwei Sets überschneiden sich"
 
-Die geschweiften Klammern sind ein bekannter Anzeigefehler — dort sollten die
-Namen stehen. Die App nennt euch die betroffenen Sets also nicht.
+Die Meldung nennt die betroffenen Sets bewusst nicht. Wichtig ist: **es wurde
+nichts gespeichert** — die Prüfung läuft vor dem ersten Schreibvorgang, euer
+Entwurf ist unversehrt.
 
 **Wie es überhaupt dazu kommt:** normalerweise weichen andere Sets automatisch
 aus, wenn ihr eines verschiebt. Ein als **No-Show** markiertes Set weicht aber
@@ -85,10 +92,10 @@ betroffen — das liegt auf dem Server.
 
 ## Was ich hier nicht finde
 
-**Instagram-Name:** das Feld ist im Editor sichtbar, lässt sich aber mit einem
-Camp-Code derzeit **nicht speichern** — die App meldet „Lineup veröffentlicht"
-und der Name ist trotzdem weg. Ein bekannter Fehler. Meldet euren
-Instagram-Namen bis auf Weiteres bei der Orga.
+**Instagram-Name:** den pflegt nur die Orga. Mit einem Camp-Code seht ihr rechts
+neben der Residents-Zahl höchstens ein kleines Instagram-Symbol, das eure Seite
+öffnet — ein Eingabefeld gibt es dort nicht. Meldet euren Instagram-Namen bei
+der Orga.
 
 **Camp-Name, Feld, Position auf der Karte:** die ändert nur die Orga.
 

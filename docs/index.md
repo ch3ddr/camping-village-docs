@@ -29,10 +29,11 @@ bleiben die Daten auf dem Gerät.
 2. **[Mein Plan](mein-plan.md)** — Sets markieren und dich rechtzeitig erinnern lassen. Das ist die Funktion, wegen der die App sich lohnt.
 3. **[Karte](karte.md)** — Gesten und der eine Tipp-Trick, den die App selbst schlecht erklärt.
 
-!!! tip "Ein Tag endet um 07:00, nicht um Mitternacht"
+!!! tip "Ein Tag endet um 08:00, nicht um Mitternacht"
 
     Ein Set um 02:00 Uhr in der Nacht von Samstag auf Sonntag steht in der App
-    unter **Samstag** — nicht unter Sonntag. Eine Festivalnacht bleibt so eine
+    unter **Samstag** — nicht unter Sonntag. Alles zwischen 00:00 und 07:59
+    zählt noch zur Nacht des Vorabends. Eine Festivalnacht bleibt so eine
     zusammenhängende Liste, statt am Datumswechsel zu zerreißen. Das gilt
     überall: in der Timetable, in deinem Plan und in den Erinnerungen.
 

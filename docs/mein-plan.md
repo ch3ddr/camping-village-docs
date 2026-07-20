@@ -28,6 +28,9 @@ Zeile mit **⚠**, hast du Überschneidungen.
 Darunter deine Sets, gruppiert nach Tag (`SAMSTAG 01 AUG`), innerhalb eines
 Tages nach Uhrzeit.
 
+Sagt ein Camp eines deiner Sets ab, bleibt es hier stehen — durchgestrichen und
+mit **ABGESAGT** gekennzeichnet, damit du die Lücke siehst.
+
 <div class="shots" markdown>
 <figure markdown>
   ![Mein Plan, noch leer](assets/shots/mein-plan-leer.png){ .shot }
@@ -51,20 +54,15 @@ Ist noch nichts markiert:
 ## Überschneidungen
 
 Überlappen sich zwei markierte Sets zeitlich, bekommt **jede betroffene Zeile**
-ein rostrotes **⚠ KONFLIKT**, und oben steht, wie viele es sind.
+ein rostrotes **⚠ KONFLIKT**, und oben steht `2 Sets überschneiden sich`.
 
 Zwei Sets, die direkt aneinander anschließen — eines endet 22:30, das nächste
 beginnt 22:30 — gelten **nicht** als Konflikt. Du musst nur laufen.
 
-!!! warning "Die Zahl oben ist eine Untergrenze"
-
-    Überschneiden sich **drei oder mehr** Sets gegenseitig, zählt die
-    Kopfzeile zu niedrig — bei drei Sets steht dort `1 Überschneidung zu lösen`.
-
-    Die **⚠ KONFLIKT**-Markierungen an den Zeilen sind dagegen immer
-    vollständig. Verlass dich auf die Zeilen, nicht auf die Zahl. Und: die
-    Warnung verschwindet erst, wenn wirklich kein Konflikt mehr da ist — ein
-    falsches „alles gut" gibt es nicht.
+Die Kopfzeile zählt die **Sets**, die betroffen sind, nicht die Paare: bei drei
+Sets, die sich gegenseitig überlappen, steht dort `3 Sets überschneiden sich`.
+Solange irgendein Konflikt besteht, steht die Warnung da — ein falsches
+„alles gut" gibt es nicht.
 
 ## Erinnerungen
 
@@ -96,15 +94,6 @@ Der Knopf **ALLE LÖSCHEN** fragt erst nach:
 
 Erst **Alle löschen** räumt wirklich auf.
 
-!!! warning "Nach dem Löschen kann der Lineup-Tab leer wirken"
-
-    Hattest du den Filter **Nur markierte Sets** an und löschst dann deinen
-    ganzen Plan, bleibt der Filter aktiv — mit null markierten Sets. Der
-    Lineup-Tab ist dann komplett leer, und der Schalter im Filter-Dialog ist
-    ausgegraut und lässt sich nicht ausschalten.
-
-    **Ausweg:** Filter öffnen, oben **ZURÜCKSETZEN**. Das räumt allerdings auch
-    Genre, Feld und Tag mit weg.
-
-    Bekannter Fehler. Nimmst du dagegen deinen *letzten Stern* einzeln zurück,
-    schaltet die App den Filter von selbst ab — nur beim Rundum-Löschen nicht.
+Danach ist dein Plan leer, und der Filter **Nur markierte Sets** schaltet sich
+automatisch mit ab — der Lineup-Tab zeigt also sofort wieder alles. Dasselbe
+passiert, wenn du deinen letzten Stern einzeln zurücknimmst.

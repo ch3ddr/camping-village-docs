@@ -31,9 +31,6 @@ einmal antippen setzt zurück auf *Alle*.
     ansiehst*; der Filter bestimmt, *was ausgegraut wird*. Du kannst also
     Samstag ansehen und dabei nach Freitag filtern — dann ist alles blass.
 
-    Und: auf der **Feld-Übersicht** bewirkt der Tag-Filter derzeit gar nichts,
-    zählt aber trotzdem an der Zahl am Filter-Knopf mit.
-
 ### Genre
 
 Mehrfachauswahl mit farbigen Punkten. Dieselben Genres schaltest du in der

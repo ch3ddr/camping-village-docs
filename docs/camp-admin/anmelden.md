@@ -17,14 +17,13 @@ Es gibt keinen sichtbaren Knopf. Der Zugang liegt hinter einer Geste auf dem
 Beim Tippen sieht es aus, als passiere nichts — jeder Tipp wechselt einfach zum
 Lineup-Tab. Zählt trotzdem mit und tippt weiter.
 
-!!! danger "Dieselbe Geste meldet euch auch wieder ab"
+!!! note "Dieselbe Geste meldet euch auch wieder ab"
 
     Seid ihr **bereits angemeldet**, öffnet die Geste nicht die Anmeldung —
-    sie **meldet euch ab**. Und ein nicht veröffentlichter Entwurf ist dann
-    ohne Nachfrage weg.
+    sie **meldet euch ab**. Habt ihr ungespeicherte Änderungen, fragt die App
+    vorher nach.
 
-    Wenn ihr also unsicher seid, ob ihr noch angemeldet seid: nicht die Geste
-    benutzen. Schaut stattdessen auf euer Camp — steht dort unten die Leiste
+    Ob ihr angemeldet seid, seht ihr an eurem Camp: steht dort unten die Leiste
     mit **ABBRECHEN / SPEICHERN & VERÖFFENTLICHEN**, seid ihr drin.
 
 ## Den Code eingeben
@@ -85,7 +84,8 @@ Drei Wege:
 2. Die versteckte Geste noch einmal.
 3. Die App komplett schließen.
 
-!!! warning
+!!! note
 
-    **Kein einziger dieser Wege fragt nach, ob ihr einen unveröffentlichten
-    Entwurf habt.** Erst veröffentlichen, dann abmelden.
+    Habt ihr ungespeicherte Änderungen, fragt die App bei **ABMELDEN** und bei
+    der Geste vorher nach (*Änderungen verwerfen?*). Beim Schließen der App
+    nicht — dort ist der Entwurf ohne Rückfrage weg.

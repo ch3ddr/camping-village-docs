@@ -10,11 +10,13 @@ viele Filter gesetzt. Antippen, oben auf **ZURÜCKSETZEN**.
 
 ## Der Lineup-Tab ist komplett leer
 
-Meistens ist der Filter **Nur markierte Sets** an, während du keine markierten
-Sets (mehr) hast — typischerweise nach **ALLE LÖSCHEN** in Mein Plan.
+Anders als auf Felder und Karte wird hier wirklich gefiltert statt nur
+ausgegraut — Zeilen und Spalten verschwinden also.
 
-Der Schalter selbst ist dann ausgegraut und lässt sich nicht ausschalten. Der
-Ausweg führt über **ZURÜCKSETZEN** im Filter-Dialog.
+Typischer Fall: **Nur markierte Sets** ist an, aber keines deiner markierten
+Sets liegt am gerade gewählten Tag. Wechsle den Tag, oder schalte den Filter
+im Filter-Dialog ab. Wenn du gar nicht mehr weißt, was gesetzt ist:
+**ZURÜCKSETZEN** räumt alles auf einmal weg.
 
 ## Ich tippe einen Pin an und nichts passiert
 
@@ -24,10 +26,17 @@ Camp. Schneller geht es über **LINEUP ANSEHEN →** auf der Karteikarte.
 
 Mehr dazu unter [Karte](karte.md#ein-camp-finden).
 
-## Die Karte bleibt schwarz
+## Die Karte lädt nicht
 
-Das Laden ist fehlgeschlagen. Es gibt derzeit keine Fehlermeldung und keinen
-Wiederholen-Knopf — hilft nur: **App komplett schließen und neu öffnen**.
+Konnte die Karte nicht geladen werden, steht an ihrer Stelle
+**„Karte nicht verfügbar · zum Wiederholen tippen"**. Tippe irgendwo auf diesen
+Hinweis — die ganze Fläche reagiert, einen eigenen Knopf gibt es nicht. Kurz
+darauf ist es dunkel, während neu geladen wird; das ist normal.
+
+Meist musst du gar nichts tun: War die App länger im Hintergrund oder hat das
+Telefon die Karte wegen Speichermangels beendet, baut die App sie beim
+Zurückkehren von selbst wieder auf. Bleibt die Fläche trotz mehrfachem Antippen
+dunkel, hilft ein Neustart der App.
 
 ## Ich bekomme keine Mitteilungen
 
@@ -48,42 +57,44 @@ Camps pflegen ihr Programm selbst. Verschiebt ein Camp ein Set, das du markiert
 hast, bekommst du eine Mitteilung — dein Plan zeigt danach automatisch die neue
 Zeit.
 
-## Ein abgesagtes Set steht noch in der Timetable
+## Ein Set ist durchgestrichen und mit ABGESAGT markiert
 
-Bekannter Fehler. Sagt ein Camp jemanden ab (No-Show), verschwindet das Set aus
-**Jetzt** und aus dem Künstler:innen-Verzeichnis — **in der Timetable und in
-deinem Plan steht es aber weiterhin, ohne jede Kennzeichnung**.
+Dann hat das Camp die Person abgesagt. Das Set bleibt in der Timetable, in der
+Camp-Timetable und in deinem Plan sichtbar — **durchgestrichen, blass und mit
+dem Kennzeichen ABGESAGT** — damit du die Lücke im Programm noch erkennst und
+nicht umsonst hinläufst. Antippen lässt es sich nicht mehr.
 
-Im Zweifel gilt: Was in **Jetzt** nicht auftaucht, obwohl es laufen müsste,
-läuft nicht.
+Aus **Jetzt** und aus dem Künstler:innen-Verzeichnis verschwindet es dagegen
+ganz. Spielt jemand ausschließlich abgesagte Sets, fällt die Person komplett
+aus dem Verzeichnis.
 
 ## Warum steht ein Set um 02:00 unter dem Vortag?
 
-Weil eine Festivalnacht in der App zusammenhängt. Der Tag wechselt um **07:00**,
-nicht um Mitternacht. Ein Set von Samstag 02:00 gehört zur Samstagnacht und
+Weil eine Festivalnacht in der App zusammenhängt. Der Tag wechselt um **08:00**,
+nicht um Mitternacht. Alles zwischen 00:00 und 07:59 gehört zum Vorabend. Ein Set von Samstag 02:00 gehört zur Samstagnacht und
 steht deshalb unter **Samstag** — in der Timetable ganz unten in der Spalte.
 
-## Die Zahl der Überschneidungen stimmt nicht
+## Was zählt die Überschneidungs-Warnung?
 
-Sie kann zu niedrig sein, wenn sich **drei oder mehr** Sets gegenseitig
-überschneiden. Die **⚠ KONFLIKT**-Markierungen an den einzelnen Zeilen sind
-dagegen vollständig — verlass dich auf die.
-
-Eine Entwarnung, die keine ist, gibt es nicht: solange ein Konflikt existiert,
-steht die Warnung da.
+Die **Sets**, die sich überschneiden — nicht die Paare. Bei drei Sets, die sich
+gegenseitig überlappen, steht dort *3 Sets überschneiden sich*. Jede betroffene
+Zeile trägt zusätzlich ein **⚠ KONFLIKT**.
 
 ## Ich sehe Text auf Englisch, obwohl DE eingestellt ist
 
 Zwei Fälle sind normal:
 
-- **Camp-, Künstler:innen- und Genre-Namen** werden nie übersetzt.
-- **Innerhalb der 3D-Karte** ist die Bedienung derzeit nur auf Englisch.
+- **Camp-, Künstler:innen- und Genre-Namen** werden nie übersetzt — das sind
+  Eigennamen.
+- Einzelne Symbol-Knöpfe in der 3D-Karte tragen noch englische
+  Hilfstexte, die nur Screenreader vorlesen.
 
-## Ein Camp hat einen „APP"-Knopf, der nichts tut
+## Was ist der „APP"-Knopf bei THE CAGE?
 
-Der Knopf bewirbt die Companion-App eines Camps und meldet derzeit *THE CAGE
-App — bald verfügbar*. Zusätzlich sitzt er momentan am **falschen Camp** —
-bekannter Fehler.
+Das Camp **THE CAGE** (Nr. 104, Feld F6) bewirbt dort seine eigene App — als
+Knopf in der Kartenvorschau und als kompaktes **APP** oben in der Kopfzeile des
+Camps. Beim Antippen erscheint derzeit *THE CAGE App — bald verfügbar*, weil
+die Store-Links noch nicht hinterlegt sind. Das ist kein Fehler.
 
 ## Ich verwalte ein Camp
 

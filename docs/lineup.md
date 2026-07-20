@@ -27,7 +27,8 @@ Blöcke:
 Passt nichts: *Nichts läuft gerade, das zu deinen Filtern passt.* bzw.
 *Keine kommenden Sets passen.*
 
-Abgesagte Sets (No-Show) tauchen hier nicht auf.
+Abgesagte Sets tauchen hier nicht auf — die stehen nur in der Timetable und in
+deinem Plan, dort durchgestrichen und mit **ABGESAGT** gekennzeichnet.
 
 ## Lineup
 
@@ -86,7 +87,13 @@ der Block von unten bernstein — wie eine Sanduhr, die anzeigt, wie viel noch
 
 **Block antippen** → Künstler:in. **Spaltenkopf antippen** → Camp.
 
-Eine rostrote **JETZT**-Linie markiert die aktuelle Uhrzeit.
+Eine rostrote **JETZT**-Linie markiert die aktuelle Uhrzeit — am jeweils
+laufenden Festivaltag.
+
+Abgesagte Sets bleiben stehen, sind aber durchgestrichen und abgedunkelt; statt
+der Startzeit steht **ABGESAGT** im Block. Antippen lässt sich so ein Block
+nicht mehr. Bei Sets unter einer Stunde ist der Block zu flach für die Zeile —
+dann bleiben nur Durchstreichung und Abdunklung.
 
 Passt nichts: *An diesem Tag passen keine Sets zu deinen Filtern.*
 

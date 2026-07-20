@@ -13,8 +13,8 @@ Wahl.
 !!! note "Was nicht übersetzt wird"
 
     Camp-Namen, Künstlernamen und Genres bleiben immer wie sie sind — das sind
-    Eigennamen. Ebenso ist die Bedienoberfläche *innerhalb* der 3D-Karte derzeit
-    nur auf Englisch, auch wenn die App auf Deutsch steht.
+    Eigennamen. Alles andere folgt der Umschaltung, auch die Bedienung
+    *innerhalb* der 3D-Karte.
 
 ## Mitteilungen erlauben
 
