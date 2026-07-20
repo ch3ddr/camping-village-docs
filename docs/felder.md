@@ -33,6 +33,13 @@ Darunter alle Camps des Feldes, untereinander. Pro Camp:
     Er ist aber **nicht** dasselbe wie der Tag im Filter-Dialog — siehe
     [Filter & Suche](filter-und-suche.md#tag).
 
+<div class="shots" markdown>
+<figure markdown>
+  ![Ein Feld mit seinen Camps](assets/shots/feld-detail.png){ .shot }
+  <figcaption>Tages-Reiter oben, darunter die Camps des Feldes.</figcaption>
+</figure>
+</div>
+
 ## Ein Camp
 
 Oben angeheftet, scrollt nicht mit:

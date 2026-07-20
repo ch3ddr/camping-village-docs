@@ -5,6 +5,13 @@
 Der Knopf mit den drei Reglern öffnet überall denselben Dialog. Er fährt von
 unten ein; Wegwischen oder ein Tipp daneben schließt ihn.
 
+<div class="shots" markdown>
+<figure markdown>
+  ![Der Filter-Dialog](assets/shots/filter-dialog.png){ .shot }
+  <figcaption>Vier Filter, die überall in der App gelten.</figcaption>
+</figure>
+</div>
+
 ### Nur markierte Sets
 
 Ein Schalter ganz oben. An bedeutet: nur zeigen, was du mit ★ markiert hast.
