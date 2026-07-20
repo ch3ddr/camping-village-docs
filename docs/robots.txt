@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /camp-admin/
+
+Sitemap: https://ch3ddr.github.io/camping-village-docs/sitemap.xml
