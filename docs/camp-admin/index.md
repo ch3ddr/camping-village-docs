@@ -34,8 +34,9 @@ Wenn etwas klemmt: **[Häufige Fehler](fehler.md)**.
     Er geht erst raus, wenn ihr unten auf **SPEICHERN & VERÖFFENTLICHEN**
     tippt und den Prüfen-Dialog bestätigt.
 
-    Das ist gut — ihr könnt in Ruhe umbauen. Es heißt aber auch: **verlasst ihr
-    den Bildschirm, ist der Entwurf weg.** Ohne Nachfrage. Siehe
+    Das ist gut — ihr könnt in Ruhe umbauen. Verlasst ihr den Bearbeitungsmodus
+    mit ungespeicherten Änderungen, fragt die App nach (*Änderungen
+    verwerfen?*). **Zwei Wege fragen nicht** — siehe
     [Häufige Fehler](fehler.md#entwurf-verloren).
 
 !!! note "Die Anmeldung hält nicht ewig"

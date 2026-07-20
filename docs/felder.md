@@ -84,11 +84,13 @@ Ist noch nichts eingetragen: *Noch keine DJs im Lineup.*
 passt, wird blass — bleibt aber sichtbar *und* antippbar. Das Raster springt
 dadurch nie um, und du siehst, was du gerade wegfilterst.
 
-!!! warning "Der Tag-Filter wirkt auf der Feld-Übersicht nicht"
+**Alle vier Filter wirken hier.** Wählst du einen Tag, wird ein Feld blass, auf
+dem an diesem Tag kein Camp spielt — und die Genre-Prüfung läuft dann nur noch
+gegen die Genres dieses Tages. Ein Camp, das Techno nur samstags spielt, lässt
+sein Feld unter „Techno + Freitag" also nicht aufleuchten.
 
-    Wählst du im Filter-Dialog einen **Tag**, zählt der zwar an der kleinen Zahl
-    am Filter-Knopf mit, ändert auf dem Feld-Raster aber nichts. Eine Ebene
-    tiefer — bei den Camps eines Feldes — wirkt er dann doch. Ein Feld kann
-    also voll aussehen und sich zu lauter ausgegrauten Camps öffnen.
+!!! note "Die Zahl auf der Karte ändert sich nicht"
 
-    Das ist ein bekannter Fehler und kein Bedienfehler.
+    `5 Camps` ist immer die Gesamtzahl der Camps auf dem Feld, nie die Zahl der
+    Treffer. Ein hell dargestelltes Feld kann also fünf Camps zeigen, von denen
+    nur eines zu deinen Filtern passt.

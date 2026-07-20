@@ -109,7 +109,7 @@ dabei übersprungen.
 
 !!! note "Nach 00:00 ist spät, nicht früh"
 
-    `01:30` liegt **nach** `22:30` — es ist dieselbe Nacht. Zeiten vor 07:00
+    `01:30` liegt **nach** `22:30` — es ist dieselbe Nacht. Zeiten vor 08:00
     gehören zum Programm des Vortags.
 
 ## Weitere Aktionen im ⋯-Menü
