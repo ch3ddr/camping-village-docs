@@ -1,0 +1,56 @@
+/* Bernstein wie in der App, für beide Themes. */
+:root {
+  --cv-amber: #f0a92e;
+  --cv-rust: #d1542f;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-accent-fg-color: var(--cv-amber);
+  --md-typeset-a-color: var(--cv-amber);
+}
+
+[data-md-color-scheme="default"] {
+  --md-accent-fg-color: #b97c10;
+  --md-typeset-a-color: #b97c10;
+}
+
+/* Screenshots sind Telefon-Hochformat — ohne Deckel füllen sie sonst die
+   halbe Seite. Nebeneinander, wenn Platz ist. */
+.shot {
+  max-width: 300px;
+  border-radius: 14px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.shots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  align-items: flex-start;
+}
+
+.shots figure {
+  margin: 0;
+  flex: 0 1 300px;
+}
+
+.shots figcaption {
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.4rem;
+}
+
+/* Clips: gleiche Breite wie die Screenshots, damit die Seite ruhig bleibt. */
+video.clip {
+  max-width: 300px;
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  display: block;
+}
+
+/* Tastenkappen für App-Beschriftungen, damit „Speichern & veröffentlichen"
+   im Fließtext als Knopf lesbar bleibt. */
+.md-typeset kbd {
+  font-size: 0.8em;
+}

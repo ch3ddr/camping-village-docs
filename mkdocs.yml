@@ -1,0 +1,92 @@
+site_name: Camping Village 2026
+site_description: Anleitung zur Camping-Village-App — Felder, Karte, Lineup und dein persönlicher Plan.
+site_url: https://ch3ddr.github.io/camping-village-docs/
+repo_url: https://github.com/ch3ddr/camping-village-docs
+edit_uri: edit/main/docs/
+
+copyright: Camping Village 2026
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: de
+  icon:
+    logo: material/tent
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.png
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.follow
+  palette:
+    # Der Standard folgt dem System; die App selbst ist dunkel, also ist Dark
+    # hier die Heimatfarbe und Light die bewusste Alternative.
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Zu hell wechseln
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Zu dunkel wechseln
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: de
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.caret
+  - pymdownx.mark
+
+# Der Camp-Admin-Bereich ist bewusst NICHT in der Navigation. Die Seiten
+# existieren und funktionieren unter ihrer URL, tauchen aber weder im Menü noch
+# in der Suche noch bei Google auf (siehe search.exclude im Frontmatter der
+# Seiten und docs/robots.txt). Camps bekommen den Link zusammen mit ihrem Code
+# per Mail. Der eigentliche Schutz ist der Code, den der Server prüft — hier
+# steht keiner drin.
+not_in_nav: |
+  /camp-admin/**
+
+nav:
+  - Start: index.md
+  - Erste Schritte: erste-schritte.md
+  - Die App im Überblick: ueberblick.md
+  - Die vier Tabs:
+      - Felder: felder.md
+      - Karte: karte.md
+      - Lineup: lineup.md
+      - Mein Plan: mein-plan.md
+  - Filter & Suche: filter-und-suche.md
+  - Hilfe & FAQ: hilfe.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ch3ddr/camping-village-docs

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{#
+  Der Camp-Admin-Bereich steht nicht in der Navigation (not_in_nav in
+  mkdocs.yml) und nicht im Suchindex (search.exclude im Frontmatter). Damit er
+  auch nicht bei Suchmaschinen landet, bekommen genau diese Seiten ein
+  noindex — robots.txt allein ist nur eine Bitte, das Meta-Tag hält auch
+  Treffer fern, die über einen geteilten Link entstanden sind.
+#}
+{% block extrahead %}
+  {{ super() }}
+  {% if page and page.file.src_uri.startswith('camp-admin/') %}
+    <meta name="robots" content="noindex, nofollow">
+  {% endif %}
+{% endblock %}
