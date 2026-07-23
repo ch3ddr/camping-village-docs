@@ -76,6 +76,7 @@ not_in_nav: |
 
 nav:
   - Start: index.md
+  - App installieren: app-installieren.md
   - Erste Schritte: erste-schritte.md
   - Die App im Überblick: ueberblick.md
   - Die vier Tabs:
