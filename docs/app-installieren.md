@@ -32,6 +32,11 @@ den Play Store.
 Oben neben dem Gruppennamen **Camping Village App** auf
 **„Gruppe beitreten" / „Join group"** tippen.
 
+Es geht ein kleines Fenster auf. Da musst du nichts einstellen — nur unten
+rechts noch mal auf **„Gruppe beitreten"**. Wenn du keine Mails aus der Gruppe
+willst, stell **ABO** vorher auf **„Keine E-Mails"**; für den Test brauchst du
+sie nicht.
+
 !!! danger "Achtung: eingeloggt sein — und zwar mit der Play-Store-Adresse!"
 
     **Du musst bei Google angemeldet sein.** Ohne Login gibt es den
