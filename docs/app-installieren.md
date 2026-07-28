@@ -31,11 +31,15 @@ den Play Store.
 
 Auf der Seite oben auf **„Gruppe beitreten" / „Join group"** tippen.
 
-!!! danger "Achtung: mit der Play-Store-Adresse beitreten!"
+!!! danger "Achtung: eingeloggt sein — und zwar mit der Play-Store-Adresse!"
 
-    Google fragt hier, mit welchem Konto du beitrittst. Das **muss dieselbe
-    E-Mail-Adresse** sein, mit der du auf deinem Android-Handy im Play Store
-    angemeldet bist — sonst funktionieren Schritt 2 und 3 nicht.
+    **Du musst bei Google angemeldet sein.** Ohne Login zeigt die Seite nur
+    „You don't have permission to access this content" und gar keinen
+    Beitreten-Knopf. Dann oben rechts auf **„Sign in" / „Anmelden"**.
+
+    Und zwar mit **derselben E-Mail-Adresse**, mit der du auf deinem
+    Android-Handy im Play Store angemeldet bist — sonst funktionieren
+    Schritt 2 und 3 nicht.
 
     Nachsehen: **Play Store → Profilbild oben rechts**. Bist du im Browser mit
     einem anderen Konto angemeldet, oben rechts auf das Profilbild und **auf
