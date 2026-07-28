@@ -58,20 +58,16 @@ sie nicht.
     neben dem Namen. Ist der da, bist du richtig: drauftippen und weiter zu
     Schritt 2. Ist er nicht da, bist du nicht angemeldet.
 
+<div class="shots" markdown>
 <figure markdown>
-  ![Gruppenseite ohne Anmeldung: kein Beitreten-Knopf, oben rechts „Sign in"](assets/shots/android-gruppe-abgemeldet.png){ .shot .shot--wide }
-  <figcaption><strong>Nicht angemeldet:</strong> kein Beitreten-Knopf, oben rechts steht „Sign in". So geht es nicht weiter.</figcaption>
+  ![Gruppenseite angemeldet: „Gruppe beitreten" neben dem Gruppennamen](assets/shots/android-gruppe-beitreten.jpg){ .shot }
+  <figcaption>Angemeldet: neben dem Namen steht <strong>Gruppe beitreten</strong>. „Sie sind nicht berechtigt" darunter ist normal.</figcaption>
 </figure>
-
 <figure markdown>
-  ![Gruppenseite angemeldet: „Gruppe beitreten" neben dem Gruppennamen](assets/shots/android-gruppe-beitreten.png){ .shot .shot--wide }
-  <figcaption><strong>Angemeldet:</strong> neben dem Namen steht „Gruppe beitreten". Die Meldung „Sie sind nicht berechtigt" darunter ist normal.</figcaption>
+  ![Beitreten-Dialog mit Anzeigename und ABO-Auswahl](assets/shots/android-gruppe-dialog.jpg){ .shot }
+  <figcaption>Das Fenster danach: nichts einstellen nötig, unten rechts noch mal <strong>Gruppe beitreten</strong>.</figcaption>
 </figure>
-
-<figure markdown>
-  ![Beitreten-Dialog mit Anzeigename und ABO-Auswahl](assets/shots/android-gruppe-dialog.png){ .shot .shot--wide style="max-width:420px" }
-  <figcaption>Das Fenster danach: nichts einstellen nötig, unten rechts noch mal „Gruppe beitreten". <strong>ABO</strong> auf „Keine E-Mails", wenn du keine Gruppenmails willst.</figcaption>
-</figure>
+</div>
 
 ### Schritt 2 — Tester werden
 
@@ -81,10 +77,12 @@ Die Seite ist meist auf Englisch. Oben steht die **Camping Village** App von
 **Templada** — das sind wir, das passt so. Unten auf den blauen Knopf
 **„Become a tester" / „Tester werden"** tippen.
 
+<div class="shots" markdown>
 <figure markdown>
-  ![Google-Play-Seite mit dem blauen Knopf „Become a tester"](assets/shots/android-tester-werden.png){ .shot .shot--wide }
+  ![Google-Play-Seite mit dem blauen Knopf „Become a tester"](assets/shots/android-tester-werden.jpg){ .shot }
   <figcaption>Englisch, Entwickler „Templada" — passt. Unten der blaue Knopf.</figcaption>
 </figure>
+</div>
 
 ### Schritt 3 — Installieren
 
@@ -93,17 +91,24 @@ drin. Wie es weitergeht, steht im Text daneben — und hängt davon ab, ob du di
 App schon hast:
 
 - **Noch nicht installiert:** auf den Link **„download it on Google Play"**
-  tippen, im Play Store auf **Installieren**, fertig.
+  tippen. Im Play Store heißt sie **Camping Village (Early Access)** — das ist
+  die richtige. Auf **Installieren** tippen, fertig.
 - **Schon installiert:** nichts weiter tun, du bekommst die Testversion als
   **Update**. Das kann etwas dauern („It can take a while").
 
 Den Knopf **„Leave the program"** einfach ignorieren, der wirft dich wieder
 raus.
 
+<div class="shots" markdown>
 <figure markdown>
-  ![Google-Play-Seite mit grünem Hinweis „You are a tester."](assets/shots/android-tester-bestaetigt.png){ .shot .shot--wide }
+  ![Google-Play-Seite mit grünem Hinweis „You are a tester."](assets/shots/android-tester-bestaetigt.jpg){ .shot }
   <figcaption>Grün heißt: geschafft. Der Link „download it on Google Play" führt in den Play Store.</figcaption>
 </figure>
+<figure markdown>
+  ![Play Store mit „Camping Village (Early Access)" und Installieren-Knopf](assets/shots/android-play-store-install.jpg){ .shot }
+  <figcaption>So sieht es im Play Store aus: <strong>Camping Village (Early Access)</strong> — auf <strong>Installieren</strong> tippen.</figcaption>
+</figure>
+</div>
 
 !!! tip "Der letzte Schritt muss auf dem Handy passieren"
 
