@@ -58,6 +58,21 @@ sie nicht.
     neben dem Namen. Ist der da, bist du richtig: drauftippen und weiter zu
     Schritt 2. Ist er nicht da, bist du nicht angemeldet.
 
+<figure markdown>
+  ![Gruppenseite ohne Anmeldung: kein Beitreten-Knopf, oben rechts „Sign in"](assets/shots/android-gruppe-abgemeldet.png){ .shot .shot--wide }
+  <figcaption><strong>Nicht angemeldet:</strong> kein Beitreten-Knopf, oben rechts steht „Sign in". So geht es nicht weiter.</figcaption>
+</figure>
+
+<figure markdown>
+  ![Gruppenseite angemeldet: „Gruppe beitreten" neben dem Gruppennamen](assets/shots/android-gruppe-beitreten.png){ .shot .shot--wide }
+  <figcaption><strong>Angemeldet:</strong> neben dem Namen steht „Gruppe beitreten". Die Meldung „Sie sind nicht berechtigt" darunter ist normal.</figcaption>
+</figure>
+
+<figure markdown>
+  ![Beitreten-Dialog mit Anzeigename und ABO-Auswahl](assets/shots/android-gruppe-dialog.png){ .shot .shot--wide style="max-width:420px" }
+  <figcaption>Das Fenster danach: nichts einstellen nötig, unten rechts noch mal „Gruppe beitreten". <strong>ABO</strong> auf „Keine E-Mails", wenn du keine Gruppenmails willst.</figcaption>
+</figure>
+
 ### Schritt 2 — Tester werden
 
 [**Tester werden →**](https://play.google.com/apps/testing/camping.village){ .md-button }
@@ -65,6 +80,11 @@ sie nicht.
 Die Seite ist meist auf Englisch. Oben steht die **Camping Village** App von
 **Templada** — das sind wir, das passt so. Unten auf den blauen Knopf
 **„Become a tester" / „Tester werden"** tippen.
+
+<figure markdown>
+  ![Google-Play-Seite mit dem blauen Knopf „Become a tester"](assets/shots/android-tester-werden.png){ .shot .shot--wide }
+  <figcaption>Englisch, Entwickler „Templada" — passt. Unten der blaue Knopf.</figcaption>
+</figure>
 
 ### Schritt 3 — Installieren
 
@@ -79,6 +99,11 @@ App schon hast:
 
 Den Knopf **„Leave the program"** einfach ignorieren, der wirft dich wieder
 raus.
+
+<figure markdown>
+  ![Google-Play-Seite mit grünem Hinweis „You are a tester."](assets/shots/android-tester-bestaetigt.png){ .shot .shot--wide }
+  <figcaption>Grün heißt: geschafft. Der Link „download it on Google Play" führt in den Play Store.</figcaption>
+</figure>
 
 !!! tip "Der letzte Schritt muss auf dem Handy passieren"
 
