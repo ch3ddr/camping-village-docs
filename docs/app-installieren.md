@@ -111,10 +111,21 @@ raus.
     [diese Seite](https://play.google.com/apps/testing/camping.village) noch
     mal **auf dem Android-Handy** und tippe dort den Play-Store-Link an.
 
-    Steht im Play Store noch „Die App ist nicht verfügbar" oder es kommt die
-    alte Version: Google braucht manchmal ein paar Minuten. Kurz warten, dann
-    im Play Store auf **Profilbild → Apps und Gerät verwalten → Aktualisieren**
-    nachsehen.
+!!! warning "Geduld: es kann ein paar Stunden dauern"
+
+    Auch wenn oben grün „You are a tester." steht, findet der Play Store die
+    App oft noch nicht sofort — Google gibt selbst **„a few hours"** an, bis
+    eine Testversion bei allen Testern ankommt. Meist sind es Minuten,
+    manchmal ein halber Tag.
+
+    Kommt „Die App ist nicht verfügbar" oder „Item not found":
+
+    1. Prüf am Handy, ob im Play Store wirklich **dasselbe Konto** aktiv ist —
+       das ist mit Abstand der häufigste Grund.
+    2. Play Store schließen und noch mal öffnen, notfalls unter
+       **Einstellungen → Apps → Google Play Store → Speicher → Cache leeren**.
+    3. Sonst einfach später noch mal probieren. Am Konto musst du nichts
+       ändern — einmal Tester bleibt Tester.
 
 <div class="shots" markdown>
 <figure markdown>
