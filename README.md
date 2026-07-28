@@ -22,20 +22,8 @@ docs/
 ├─ index.md, erste-schritte.md, ueberblick.md   Einstieg
 ├─ felder.md, karte.md, lineup.md, mein-plan.md Die vier Tabs
 ├─ filter-und-suche.md, hilfe.md                Querschnitt
-├─ camp-admin/                                  NICHT in der Navigation
 └─ assets/shots/                                Screenshots & Clips
 ```
-
-### Der Camp-Admin-Bereich
-
-`docs/camp-admin/` beschreibt, wie Camps ihr Lineup selbst verwalten. Die Seiten
-sind bewusst **unverlinkt**: nicht in der Navigation (`not_in_nav` in
-`mkdocs.yml`), nicht im Suchindex (`search.exclude` im Frontmatter), nicht bei
-Suchmaschinen (`noindex` über `overrides/main.html` plus `docs/robots.txt`).
-
-Camps bekommen den direkten Link zusammen mit ihrem Code per Mail. Der
-eigentliche Schutz ist der Code, den der Server prüft — **in diesen Seiten steht
-keiner, und es darf auch nie einer hineingeraten.**
 
 ## Screenshots erneuern
 
@@ -52,9 +40,6 @@ flutter drive \
   --target=integration_test/docs_shots_test.dart \
   -d <simulator-udid>
 ```
-
-Für die Camp-Admin-Seiten zusätzlich mit
-`--target=integration_test/docs_shots_admin_test.dart --dart-define=SHOT_CODE=XXXXXX`.
 
 Danach mit `sips -Z 720 docs/assets/shots/*.png` auf Web-Größe bringen.
 
