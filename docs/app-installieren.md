@@ -68,8 +68,23 @@ Die Seite ist meist auf Englisch. Oben steht die **Camping Village** App von
 
 ### Schritt 3 — Installieren
 
-Auf derselben Seite erscheint jetzt der **Play-Store-Link**. Drauftippen,
-installieren — fertig.
+Die Seite lädt neu und zeigt jetzt grün **„You are a tester."** Damit bist du
+drin. Im Text darüber steht der Link **„download it on Google Play"** —
+drauftippen, im Play Store auf **Installieren**, fertig.
+
+Den Knopf **„Leave the program"** einfach ignorieren, der wirft dich wieder
+raus.
+
+!!! tip "Der letzte Schritt muss auf dem Handy passieren"
+
+    Hast du Schritt 1 und 2 am Rechner gemacht? Dann öffne
+    [diese Seite](https://play.google.com/apps/testing/camping.village) noch
+    mal **auf dem Android-Handy** und tippe dort den Play-Store-Link an.
+
+    Steht im Play Store noch „Die App ist nicht verfügbar" oder es kommt die
+    alte Version: Google braucht manchmal ein paar Minuten. Kurz warten, dann
+    im Play Store auf **Profilbild → Apps und Gerät verwalten → Aktualisieren**
+    nachsehen.
 
 <div class="shots" markdown>
 <figure markdown>
