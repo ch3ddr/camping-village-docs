@@ -31,6 +31,16 @@ den Play Store.
 
 Auf der Seite oben auf **„Gruppe beitreten" / „Join group"** tippen.
 
+!!! danger "Achtung: mit der Play-Store-Adresse beitreten!"
+
+    Google fragt hier, mit welchem Konto du beitrittst. Das **muss dieselbe
+    E-Mail-Adresse** sein, mit der du auf deinem Android-Handy im Play Store
+    angemeldet bist — sonst funktionieren Schritt 2 und 3 nicht.
+
+    Nachsehen: **Play Store → Profilbild oben rechts**. Bist du im Browser mit
+    einem anderen Konto angemeldet, oben rechts auf das Profilbild und **auf
+    das richtige Konto wechseln**.
+
 ### Schritt 2 — Tester werden
 
 [**Tester werden →**](https://play.google.com/apps/testing/camping.village){ .md-button }
