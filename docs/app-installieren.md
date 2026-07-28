@@ -32,10 +32,9 @@ den Play Store.
 Oben neben dem Gruppennamen **Camping Village App** auf
 **„Gruppe beitreten" / „Join group"** tippen.
 
-Es geht ein kleines Fenster auf. Da musst du nichts einstellen — nur unten
-rechts noch mal auf **„Gruppe beitreten"**. Wenn du keine Mails aus der Gruppe
-willst, stell **ABO** vorher auf **„Keine E-Mails"**; für den Test brauchst du
-sie nicht.
+Es geht ein kleines Fenster auf. Stell **ABO** auf **„Keine E-Mail"** und nimm
+den Haken darunter raus — die Gruppe ist nur der Türöffner, Mails brauchst du
+von da keine. Dann unten rechts noch mal auf **„Gruppe beitreten"**.
 
 !!! danger "Achtung: eingeloggt sein — und zwar mit der Play-Store-Adresse!"
 
@@ -65,7 +64,7 @@ sie nicht.
 </figure>
 <figure markdown>
   ![Beitreten-Dialog mit Anzeigename und ABO-Auswahl](assets/shots/android-gruppe-dialog.jpg){ .shot }
-  <figcaption>Das Fenster danach: nichts einstellen nötig, unten rechts noch mal <strong>Gruppe beitreten</strong>.</figcaption>
+  <figcaption>So einstellen: <strong>ABO</strong> auf „Keine E-Mail", Haken darunter raus. Dann unten rechts <strong>Gruppe beitreten</strong>.</figcaption>
 </figure>
 </div>
 
