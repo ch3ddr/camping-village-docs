@@ -69,8 +69,13 @@ Die Seite ist meist auf Englisch. Oben steht die **Camping Village** App von
 ### Schritt 3 — Installieren
 
 Die Seite lädt neu und zeigt jetzt grün **„You are a tester."** Damit bist du
-drin. Im Text darüber steht der Link **„download it on Google Play"** —
-drauftippen, im Play Store auf **Installieren**, fertig.
+drin. Wie es weitergeht, steht im Text daneben — und hängt davon ab, ob du die
+App schon hast:
+
+- **Noch nicht installiert:** auf den Link **„download it on Google Play"**
+  tippen, im Play Store auf **Installieren**, fertig.
+- **Schon installiert:** nichts weiter tun, du bekommst die Testversion als
+  **Update**. Das kann etwas dauern („It can take a while").
 
 Den Knopf **„Leave the program"** einfach ignorieren, der wirft dich wieder
 raus.
