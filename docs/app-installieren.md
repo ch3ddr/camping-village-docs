@@ -62,7 +62,9 @@ sie nicht.
 
 [**Tester werden →**](https://play.google.com/apps/testing/camping.village){ .md-button }
 
-Auf **„Tester werden" / „Become a tester"** tippen.
+Die Seite ist meist auf Englisch. Oben steht die **Camping Village** App von
+**Templada** — das sind wir, das passt so. Unten auf den blauen Knopf
+**„Become a tester" / „Tester werden"** tippen.
 
 ### Schritt 3 — Installieren
 
