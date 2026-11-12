@@ -1,6 +1,50 @@
 {% extends "base.html" %}
 
 {#
+  Die Anleitung ist umgezogen nach https://camping-village.app/anleitung
+  (#315). Jede Seite leitet auf ihr Gegenstück weiter: gleicher Slug unter
+  /anleitung/<slug>, die Startseite auf /anleitung, der Camp-Admin-Bereich
+  (gibt es auf der neuen Seite nicht mehr) auf /fuer-camps. Canonical zeigt
+  ebenfalls aufs Ziel, damit Suchmaschinen die neue Adresse übernehmen.
+#}
+{% set new_site = "https://camping-village.app" %}
+{% if page and page.file %}
+  {% set src = page.file.src_uri %}
+  {% if src.startswith("camp-admin/") %}
+    {% set forward_to = new_site ~ "/fuer-camps" %}
+  {% elif src == "index.md" %}
+    {% set forward_to = new_site ~ "/anleitung" %}
+  {% else %}
+    {% set forward_to = new_site ~ "/anleitung/" ~ src[:-3] %}
+  {% endif %}
+{% else %}
+  {% set forward_to = new_site ~ "/anleitung" %}
+{% endif %}
+
+{#
+  Kopie des site_meta-Blocks aus mkdocs-material 9.5.49 (base.html), nur der
+  Canonical-Link zeigt auf die neue Adresse statt auf GitHub Pages.
+#}
+{% block site_meta %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="refresh" content="0; url={{ forward_to }}">
+  {% if page.meta and page.meta.description %}
+    <meta name="description" content="{{ page.meta.description }}">
+  {% elif config.site_description %}
+    <meta name="description" content="{{ config.site_description }}">
+  {% endif %}
+  {% if page.meta and page.meta.author %}
+    <meta name="author" content="{{ page.meta.author }}">
+  {% elif config.site_author %}
+    <meta name="author" content="{{ config.site_author }}">
+  {% endif %}
+  <link rel="canonical" href="{{ forward_to }}">
+  <link rel="icon" href="{{ config.theme.favicon | url }}">
+  <meta name="generator" content="mkdocs-{{ mkdocs_version }}, mkdocs-material-9.5.49">
+{% endblock %}
+
+{#
   Der Camp-Admin-Bereich steht nicht in der Navigation (not_in_nav in
   mkdocs.yml) und nicht im Suchindex (search.exclude im Frontmatter). Damit er
   auch nicht bei Suchmaschinen landet, bekommen genau diese Seiten ein
@@ -12,4 +56,14 @@
   {% if page and page.file.src_uri.startswith('camp-admin/') %}
     <meta name="robots" content="noindex, nofollow">
   {% endif %}
+{% endblock %}
+
+{% block content %}
+  <div class="admonition warning">
+    <p class="admonition-title">Wir sind umgezogen</p>
+    <p>Die Anleitung findet ihr jetzt unter
+      <a href="{{ forward_to }}">{{ forward_to }}</a>.
+      Ihr werdet gleich weitergeleitet – falls nicht, tippt einfach auf den Link.</p>
+  </div>
+  {{ super() }}
 {% endblock %}
